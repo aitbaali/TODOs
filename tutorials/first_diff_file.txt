@@ -1,2 +1,3 @@
-[x] first tutorial
-[ ] second tutorial
+[ ] first tutorial
+[x] second tutorial
+[ ] third tutorial
